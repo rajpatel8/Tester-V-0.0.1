@@ -2,29 +2,23 @@
 
 pehle itna install kar le
 
+Recomended Pakage manager Anaconda , pip
 
 Pre requisite
   - Anaconda
-  - pre requisites
-  - pip install tensorflow
-  - pip install pandas
-  - pip install scikit-learn
-  - pip install opencv-python
-  - pip install numpy
-  - pip install matplotlib
-  - pip install seaborn
-  - pip install scikit-image
-  - pip install scikit-plot
-  - pip install pydot
-  - pip install graphviz
-  - pip install pydotplus
-  - pip install pydot-ng
+  - conda install tensorflow
+  - conda install pandas
+  - conda install scikit-learn
+  - conda install opencv-python
+  - conda install numpy
+  - conda install matplotlib
+  - conda install seaborn
 
 webscraping (Instagarm)
-  - pip install instaloader
+  - conda install instaloader
 
 Face recognition libraries
-  - pip install Deepface
+  -  pip install Deepface
   -  pip install mtcnn
   -  pip install keras_vggface
   -  pip install facenet-pytorch
